@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "P006_SinavNotuHesapla/1.0.0": {
+        "runtime": {
+          "P006_SinavNotuHesapla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P006_SinavNotuHesapla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

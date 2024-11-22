@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/obj/Debug/net9.0/P003_Daire.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/obj/Debug/net9.0/P003_Daire.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/obj/Debug/net9.0/P003_Daire.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/obj/Debug/net9.0/P003_Daire.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/bin/Debug/net9.0/P003_Daire
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/bin/Debug/net9.0/P003_Daire.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/bin/Debug/net9.0/P003_Daire.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/bin/Debug/net9.0/P003_Daire.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/bin/Debug/net9.0/P003_Daire.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/obj/Debug/net9.0/P003_Daire.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/obj/Debug/net9.0/refint/P003_Daire.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/obj/Debug/net9.0/P003_Daire.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/obj/Debug/net9.0/P003_Daire.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P003_Daire/obj/Debug/net9.0/ref/P003_Daire.dll

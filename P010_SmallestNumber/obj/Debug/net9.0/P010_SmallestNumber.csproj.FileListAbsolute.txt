@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/bin/Debug/net9.0/P010_SmallestNumber
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/bin/Debug/net9.0/P010_SmallestNumber.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/bin/Debug/net9.0/P010_SmallestNumber.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/bin/Debug/net9.0/P010_SmallestNumber.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/bin/Debug/net9.0/P010_SmallestNumber.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/obj/Debug/net9.0/P010_SmallestNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/obj/Debug/net9.0/P010_SmallestNumber.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/obj/Debug/net9.0/P010_SmallestNumber.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/obj/Debug/net9.0/P010_SmallestNumber.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/obj/Debug/net9.0/P010_SmallestNumber.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/obj/Debug/net9.0/refint/P010_SmallestNumber.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/obj/Debug/net9.0/P010_SmallestNumber.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/obj/Debug/net9.0/P010_SmallestNumber.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P010_SmallestNumber/obj/Debug/net9.0/ref/P010_SmallestNumber.dll

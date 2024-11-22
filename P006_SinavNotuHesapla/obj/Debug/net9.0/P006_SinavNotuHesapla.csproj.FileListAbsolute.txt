@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/bin/Debug/net9.0/P006_SinavNotuHesapla
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/bin/Debug/net9.0/P006_SinavNotuHesapla.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/bin/Debug/net9.0/P006_SinavNotuHesapla.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/bin/Debug/net9.0/P006_SinavNotuHesapla.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/bin/Debug/net9.0/P006_SinavNotuHesapla.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/obj/Debug/net9.0/P006_SinavNotuHesapla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/obj/Debug/net9.0/P006_SinavNotuHesapla.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/obj/Debug/net9.0/P006_SinavNotuHesapla.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/obj/Debug/net9.0/P006_SinavNotuHesapla.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/obj/Debug/net9.0/P006_SinavNotuHesapla.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/obj/Debug/net9.0/refint/P006_SinavNotuHesapla.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/obj/Debug/net9.0/P006_SinavNotuHesapla.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/obj/Debug/net9.0/P006_SinavNotuHesapla.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P006_SinavNotuHesapla/obj/Debug/net9.0/ref/P006_SinavNotuHesapla.dll

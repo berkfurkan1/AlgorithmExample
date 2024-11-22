@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "P012_WhichDay/1.0.0": {
+        "runtime": {
+          "P012_WhichDay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P012_WhichDay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

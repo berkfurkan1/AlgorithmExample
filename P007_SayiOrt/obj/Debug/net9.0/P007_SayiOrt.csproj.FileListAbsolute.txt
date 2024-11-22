@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/bin/Debug/net9.0/P007_SayiOrt
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/bin/Debug/net9.0/P007_SayiOrt.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/bin/Debug/net9.0/P007_SayiOrt.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/bin/Debug/net9.0/P007_SayiOrt.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/bin/Debug/net9.0/P007_SayiOrt.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/obj/Debug/net9.0/P007_SayiOrt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/obj/Debug/net9.0/P007_SayiOrt.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/obj/Debug/net9.0/P007_SayiOrt.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/obj/Debug/net9.0/P007_SayiOrt.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/obj/Debug/net9.0/P007_SayiOrt.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/obj/Debug/net9.0/refint/P007_SayiOrt.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/obj/Debug/net9.0/P007_SayiOrt.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/obj/Debug/net9.0/P007_SayiOrt.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P007_SayiOrt/obj/Debug/net9.0/ref/P007_SayiOrt.dll

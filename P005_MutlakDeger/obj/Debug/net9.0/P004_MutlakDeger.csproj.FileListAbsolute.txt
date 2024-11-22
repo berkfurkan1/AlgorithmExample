@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/bin/Debug/net9.0/P004_MutlakDeger
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/bin/Debug/net9.0/P004_MutlakDeger.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/bin/Debug/net9.0/P004_MutlakDeger.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/bin/Debug/net9.0/P004_MutlakDeger.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/bin/Debug/net9.0/P004_MutlakDeger.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/obj/Debug/net9.0/P004_MutlakDeger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/obj/Debug/net9.0/P004_MutlakDeger.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/obj/Debug/net9.0/P004_MutlakDeger.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/obj/Debug/net9.0/P004_MutlakDeger.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/obj/Debug/net9.0/P004_MutlakDeger.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/obj/Debug/net9.0/refint/P004_MutlakDeger.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/obj/Debug/net9.0/P004_MutlakDeger.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/obj/Debug/net9.0/P004_MutlakDeger.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P005_MutlakDeger/obj/Debug/net9.0/ref/P004_MutlakDeger.dll

@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/obj/Debug/net9.0/P011_FaizBanka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/obj/Debug/net9.0/P011_FaizBanka.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/obj/Debug/net9.0/P011_FaizBanka.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/obj/Debug/net9.0/P011_FaizBanka.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/bin/Debug/net9.0/P011_FaizBanka
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/bin/Debug/net9.0/P011_FaizBanka.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/bin/Debug/net9.0/P011_FaizBanka.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/bin/Debug/net9.0/P011_FaizBanka.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/bin/Debug/net9.0/P011_FaizBanka.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/obj/Debug/net9.0/P011_FaizBanka.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/obj/Debug/net9.0/refint/P011_FaizBanka.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/obj/Debug/net9.0/P011_FaizBanka.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/obj/Debug/net9.0/P011_FaizBanka.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P011_FaizBanka/obj/Debug/net9.0/ref/P011_FaizBanka.dll

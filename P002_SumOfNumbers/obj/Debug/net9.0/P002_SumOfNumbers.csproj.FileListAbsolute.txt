@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/obj/Debug/net9.0/P002_SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/obj/Debug/net9.0/P002_SumOfNumbers.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/obj/Debug/net9.0/P002_SumOfNumbers.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/obj/Debug/net9.0/P002_SumOfNumbers.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/bin/Debug/net9.0/P002_SumOfNumbers
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/bin/Debug/net9.0/P002_SumOfNumbers.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/bin/Debug/net9.0/P002_SumOfNumbers.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/bin/Debug/net9.0/P002_SumOfNumbers.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/bin/Debug/net9.0/P002_SumOfNumbers.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/obj/Debug/net9.0/P002_SumOfNumbers.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/obj/Debug/net9.0/refint/P002_SumOfNumbers.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/obj/Debug/net9.0/P002_SumOfNumbers.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/obj/Debug/net9.0/P002_SumOfNumbers.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P002_SumOfNumbers/obj/Debug/net9.0/ref/P002_SumOfNumbers.dll

@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/obj/Debug/net9.0/P004_TamKati.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/obj/Debug/net9.0/P004_TamKati.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/obj/Debug/net9.0/P004_TamKati.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/obj/Debug/net9.0/P004_TamKati.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/bin/Debug/net9.0/P004_TamKati
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/bin/Debug/net9.0/P004_TamKati.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/bin/Debug/net9.0/P004_TamKati.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/bin/Debug/net9.0/P004_TamKati.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/bin/Debug/net9.0/P004_TamKati.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/obj/Debug/net9.0/P004_TamKati.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/obj/Debug/net9.0/refint/P004_TamKati.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/obj/Debug/net9.0/P004_TamKati.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/obj/Debug/net9.0/P004_TamKati.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P004_TamKati/obj/Debug/net9.0/ref/P004_TamKati.dll

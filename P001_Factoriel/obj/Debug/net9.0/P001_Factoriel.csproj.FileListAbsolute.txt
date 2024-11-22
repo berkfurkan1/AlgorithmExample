@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/obj/Debug/net9.0/P001_Factoriel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/obj/Debug/net9.0/P001_Factoriel.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/obj/Debug/net9.0/P001_Factoriel.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/obj/Debug/net9.0/P001_Factoriel.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/bin/Debug/net9.0/P001_Factoriel
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/bin/Debug/net9.0/P001_Factoriel.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/bin/Debug/net9.0/P001_Factoriel.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/bin/Debug/net9.0/P001_Factoriel.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/bin/Debug/net9.0/P001_Factoriel.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/obj/Debug/net9.0/P001_Factoriel.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/obj/Debug/net9.0/refint/P001_Factoriel.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/obj/Debug/net9.0/P001_Factoriel.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/obj/Debug/net9.0/P001_Factoriel.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P001_Factoriel/obj/Debug/net9.0/ref/P001_Factoriel.dll

@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/bin/Debug/net9.0/P012_WhichDay
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/bin/Debug/net9.0/P012_WhichDay.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/bin/Debug/net9.0/P012_WhichDay.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/bin/Debug/net9.0/P012_WhichDay.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/bin/Debug/net9.0/P012_WhichDay.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/obj/Debug/net9.0/P012_WhichDay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/obj/Debug/net9.0/P012_WhichDay.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/obj/Debug/net9.0/P012_WhichDay.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/obj/Debug/net9.0/P012_WhichDay.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/obj/Debug/net9.0/P012_WhichDay.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/obj/Debug/net9.0/refint/P012_WhichDay.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/obj/Debug/net9.0/P012_WhichDay.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/obj/Debug/net9.0/P012_WhichDay.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P012_WhichDay/obj/Debug/net9.0/ref/P012_WhichDay.dll

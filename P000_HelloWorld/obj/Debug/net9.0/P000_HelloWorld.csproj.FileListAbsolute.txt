@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/bin/Debug/net9.0/P000_HelloWorld
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/bin/Debug/net9.0/P000_HelloWorld.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/bin/Debug/net9.0/P000_HelloWorld.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/bin/Debug/net9.0/P000_HelloWorld.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/bin/Debug/net9.0/P000_HelloWorld.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/obj/Debug/net9.0/P000_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/obj/Debug/net9.0/P000_HelloWorld.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/obj/Debug/net9.0/P000_HelloWorld.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/obj/Debug/net9.0/P000_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/obj/Debug/net9.0/P000_HelloWorld.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/obj/Debug/net9.0/refint/P000_HelloWorld.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/obj/Debug/net9.0/P000_HelloWorld.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/obj/Debug/net9.0/P000_HelloWorld.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P000_HelloWorld/obj/Debug/net9.0/ref/P000_HelloWorld.dll

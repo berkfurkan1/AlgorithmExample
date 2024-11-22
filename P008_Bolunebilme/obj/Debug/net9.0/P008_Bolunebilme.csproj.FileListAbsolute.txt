@@ -1,0 +1,14 @@
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/obj/Debug/net9.0/P008_Bolunebilme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/obj/Debug/net9.0/P008_Bolunebilme.AssemblyInfoInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/obj/Debug/net9.0/P008_Bolunebilme.AssemblyInfo.cs
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/obj/Debug/net9.0/P008_Bolunebilme.csproj.CoreCompileInputs.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/bin/Debug/net9.0/P008_Bolunebilme
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/bin/Debug/net9.0/P008_Bolunebilme.deps.json
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/bin/Debug/net9.0/P008_Bolunebilme.runtimeconfig.json
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/bin/Debug/net9.0/P008_Bolunebilme.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/bin/Debug/net9.0/P008_Bolunebilme.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/obj/Debug/net9.0/P008_Bolunebilme.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/obj/Debug/net9.0/refint/P008_Bolunebilme.dll
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/obj/Debug/net9.0/P008_Bolunebilme.pdb
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/obj/Debug/net9.0/P008_Bolunebilme.genruntimeconfig.cache
+/Users/fba/Desktop/ALGORITHMBASICS/P008_Bolunebilme/obj/Debug/net9.0/ref/P008_Bolunebilme.dll
